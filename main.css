@@ -1,9 +1,4 @@
 .iframe100 {   display: block;   border: none;   height: 60vh;   width: 100vw; }
 img{
-    width : inherit;
-    height : inherit;
-}
-td{
-    text-align: center;
-    width: 33vw;
+    width : 100vw;
 }

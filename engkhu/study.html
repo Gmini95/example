@@ -20,12 +20,6 @@
             setInterval("x()",1);
             function x(){window.status="readyto2019clear"}
 
-            function click() 
-            {
-                if ((event.button==2) || (event.button==2)) {alert('오른쪽 마우스 금지입니다.');}
-            }
-            document.onmousedown=click;
-
             function processKey() 
             { 
             if( (event.ctrlKey == true && (event.keyCode == 78 || event.keyCode == 82)) || 
@@ -39,6 +33,7 @@
             document.onkeydown = processKey; 
 
             function click() { 
+                if ((event.button==2) || (event.button==2)) {alert('오른쪽 마우스 금지입니다.');}
                 if((event.ctrlKey) || (event.shiftKey)) { 
                     alert('키를 사용할 수 없습니다.'); 
                 } 

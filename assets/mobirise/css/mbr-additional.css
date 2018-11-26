@@ -1411,19 +1411,19 @@ body {
   color: #ff3366;
 }
 .cid-r9MCNyJ0JY {
-  background-image: url("../../../assets/images/-2000x1134190.png");
+  background-image: url("../../../assets/images/-2000x1134211.png");
 }
 .cid-r9MCNyJ0JY DIV {
   color: #ff3366;
 }
 .cid-r9MCNTKsdg {
-  background-image: url("../../../assets/images/-2000x1134191.png");
+  background-image: url("../../../assets/images/-2000x1134212.png");
 }
 .cid-r9MCNTKsdg H1 {
   color: #ff3366;
 }
 .cid-r9MwhC1q2c {
-  background-image: url("../../../assets/images/-2000x1134192.png");
+  background-image: url("../../../assets/images/-2000x1134213.png");
 }
 .cid-r9MwhC1q2c H1 {
   color: #ff3366;
@@ -1435,7 +1435,7 @@ body {
   color: #ff3366;
 }
 .cid-r9MxfqEHjI {
-  background-image: url("../../../assets/images/-2000x1335193.png");
+  background-image: url("../../../assets/images/-2000x1335214.png");
 }
 .cid-r9MxfqEHjI H1 {
   color: #ff3366;
@@ -2929,26 +2929,26 @@ body {
     width: 100% !important;
   }
 }
-.cid-rabzPSfFEm {
+.cid-ratxS9lmk3 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rabzPSfFEm .mbr-slider .carousel-control {
+.cid-ratxS9lmk3 .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-rabzPSfFEm .mbr-slider .carousel-control-prev {
+.cid-ratxS9lmk3 .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-rabzPSfFEm .mbr-slider .carousel-control-next {
+.cid-ratxS9lmk3 .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-rabzPSfFEm .mbr-slider .modal-body .close {
+.cid-ratxS9lmk3 .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-rabzPSfFEm .mbr-gallery-item > div::before {
+.cid-ratxS9lmk3 .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -2961,13 +2961,13 @@ body {
   transition: 0.2s opacity ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rabzPSfFEm .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-ratxS9lmk3 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-rabzPSfFEm .mbr-gallery-item > div:hover:before {
-  opacity: 0.8 !important;
+.cid-ratxS9lmk3 .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
 }
-.cid-rabzPSfFEm .mbr-gallery-title {
+.cid-ratxS9lmk3 .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -2977,7 +2977,7 @@ body {
   color: #fff;
   z-index: 2;
 }
-.cid-rabzPSfFEm .mbr-gallery-title:before {
+.cid-ratxS9lmk3 .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
@@ -2986,7 +2986,7 @@ body {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.8;
+  opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
